@@ -1,0 +1,13 @@
+E:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.exe.config
+E:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.exe
+E:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.pdb
+E:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.csproj.AssemblyReference.cache
+E:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.csproj.CoreCompileInputs.cache
+E:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.exe
+E:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.pdb
+F:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.exe.config
+F:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.exe
+F:\Coding Portfolio\C#\ToDo_App\bin\Debug\ToDo_App.pdb
+F:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.csprojAssemblyReference.cache
+F:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.exe
+F:\Coding Portfolio\C#\ToDo_App\obj\Debug\ToDo_App.pdb
